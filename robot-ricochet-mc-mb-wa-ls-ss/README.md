@@ -2,11 +2,15 @@
 
 ### Membres du groupe:
 
--AIT KHEDDACHE Wissam,
--BOUAOUD Malik,
--SINI Lynda,
--SI-MOHAMMED Sonia,
--CUQUEMELLE Mathieu
+  1.AIT KHEDDACHE Wissam,
+  
+  2.BOUAOUD Malik,
+  
+  3.SINI Lynda,
+  
+  4.SI-MOHAMMED Sonia,
+  
+  5.CUQUEMELLE Mathieu
 
 ### Projet:
 C'est quoi? --> Le jeu: Robot Ricochet Solver.
